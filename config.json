@@ -1,0 +1,12 @@
+{
+  "hosts_ping": ["1.1.1.1", "8.8.8.8"],
+  "pings_por_medicion": 10,
+  "mb_descarga": 15,
+  "medir_subida": true,
+  "mb_subida": 5,
+  "plan_contratado_mbps": 0,
+  "umbral_latencia_ms": 80,
+  "umbral_perdida_pct": 2,
+  "umbral_velocidad_mbps": 0,
+  "minutos_entre_mediciones": 15
+}
